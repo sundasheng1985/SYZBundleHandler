@@ -1,0 +1,16 @@
+PODS:
+  - SYZBundleHandler (0.1.0)
+
+DEPENDENCIES:
+  - SYZBundleHandler (from `../`)
+
+EXTERNAL SOURCES:
+  SYZBundleHandler:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SYZBundleHandler: da5cc298360bdfd904a67ec6b4ee9bdc9b85adc4
+
+PODFILE CHECKSUM: 99d809106fe02cf1079557a0b5f640a066e455c3
+
+COCOAPODS: 1.4.0

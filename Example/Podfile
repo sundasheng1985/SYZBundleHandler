@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SYZBundleHandler_Example' do
+  pod 'SYZBundleHandler', :path => '../'
+
+  target 'SYZBundleHandler_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
