@@ -2,7 +2,7 @@
 //  NSBundle+SYZBundleHandler.m
 //  SYZBundleHandler
 //
-//  Created by majian on 2018/7/25.
+//  Created by Sunny on 2018/7/25.
 //
 
 #import "NSBundle+SYZBundleHandler.h"

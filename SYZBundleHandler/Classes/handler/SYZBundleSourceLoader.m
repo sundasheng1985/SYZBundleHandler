@@ -2,7 +2,7 @@
 //  SYZBundleSourceLoader.m
 //  Pods-SYZDemo_Example
 //
-//  Created by majian on 2018/7/24.
+//  Created by Sunny on 2018/7/24.
 //
 
 #import "SYZBundleSourceLoader.h"

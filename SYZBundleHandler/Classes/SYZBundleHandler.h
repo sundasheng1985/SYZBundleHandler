@@ -2,7 +2,7 @@
 //  SYZBundleHandler.h
 //  SYZDemo
 //
-//  Created by majian on 2018/7/24.
+//  Created by Sunny on 2018/7/24.
 //
 
 #ifndef SYZBundleHandler_h
@@ -22,7 +22,7 @@
     #import "SYZBundleSourceLoader.h"
     #import "NSObject+SYZBundleHandler.h"
     #import "NSObject+SYZBundleNSArray.h"
-    #import "NSObject+SYZBundleNSDictionary.h"Ô
+    #import "NSObject+SYZBundleNSDictionary.h"
     #import "NSObject+SYZBundleUIButton.h"
     #import "NSObject+SYZBundleUIImage.h"
     #import "NSObject+SYZBundleImageView.h"

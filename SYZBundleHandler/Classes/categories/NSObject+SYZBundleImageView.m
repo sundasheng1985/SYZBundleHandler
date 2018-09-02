@@ -2,7 +2,7 @@
 //  NSObject+SYZBundleImageView.m
 //  Pods-SYZBundleHandler_Example
 //
-//  Created by majian on 2018/7/25.
+//  Created by Sunny on 2018/7/25.
 //
 
 #import "NSObject+SYZBundleImageView.h"
